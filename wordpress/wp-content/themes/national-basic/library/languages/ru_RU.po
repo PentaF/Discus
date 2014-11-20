@@ -1,0 +1,714 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: National Basic v1.0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-10-21 07:25:59+0000\n"
+"Last-Translator: admin <dyba03@yandex.ua>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:15
+#@ national
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Упс, ничего не найдено!"
+
+#: 404.php:19
+#@ national
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Такой страницы нет, воспользуйтесь поиском."
+
+#: archive.php:29
+#, php-format
+#@ national
+msgid "%s"
+msgstr ""
+
+#: archive.php:31
+#, php-format
+#@ national
+msgid "Tag Archive for %s"
+msgstr "Архив автора: %s"
+
+#: archive.php:33
+#, php-format
+#@ national
+msgid "Daily Archives: %s"
+msgstr "День: %s"
+
+#: archive.php:35
+#, php-format
+#@ national
+msgid "Monthly Archives: %s"
+msgstr "Месяц: %s"
+
+#: archive.php:35
+#@ national
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:37
+#, php-format
+#@ national
+msgid "Yearly Archives: %s"
+msgstr "Год: %s"
+
+#: archive.php:37
+#@ national
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:39
+#@ national
+msgid "Blog Archives"
+msgstr "Архив блога"
+
+#: comments.php:28
+#, php-format
+#@ national
+msgid "1 comment for &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments for &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: comments.php:39
+#@ national
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#: comments.php:40
+#@ national
+msgid "&larr; Older Comments"
+msgstr "&larr; Предыдущие комментарии"
+
+#: comments.php:41
+#@ national
+msgid "Newer Comments &rarr;"
+msgstr "Новые комментарии &rarr;"
+
+#: comments.php:50
+#@ national
+msgid "Comments are closed."
+msgstr "Комментари закрыты."
+
+#: content-aside.php:9
+#, php-format
+#@ national
+msgid "%s Aside"
+msgstr "%s формат"
+
+#: content-aside.php:12
+#: content-audio.php:12
+#: content-gallery.php:12
+#: content-image.php:16
+#: content-link.php:12
+#: content-quote.php:11
+#: content-status.php:18
+#: content-video.php:12
+#: content.php:51
+#: functions.php:373
+#: page.php:25
+#@ national
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Читать далее <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-footer.php:10
+#: image.php:50
+#@ national
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: content-footer.php:11
+#@ national
+msgid "Tags:"
+msgstr "Метки:"
+
+#: content-footer.php:12
+#: functions.php:327
+#: image.php:51
+#@ national
+msgid "Edit"
+msgstr "Изменить"
+
+#: content-header.php:27
+#: content.php:28
+#@ national
+msgid "0 Comments"
+msgstr "Нет комментариев"
+
+#: content-header.php:27
+#: content.php:28
+#@ national
+msgid "1 Comment"
+msgstr "Один комментарий"
+
+#: content-header.php:27
+#: content.php:28
+#@ national
+msgid "% Comments"
+msgstr "Комментариев: %"
+
+#: content-header.php:32
+#: content.php:42
+#, php-format
+#@ national
+msgid "by %s on %s"
+msgstr "автор %s в %s"
+
+#: content-header.php:33
+#: content.php:43
+#, php-format
+#@ national
+msgid "Posts by %s"
+msgstr "Записи автора: %s"
+
+#: content-link.php:9
+#, php-format
+#@ national
+msgid "%s Link"
+msgstr "%s Ссылка"
+
+#: content-none.php:9
+#@ national
+msgid "Nothing found"
+msgstr "К сожалению, ничего не найдено."
+
+#: content-none.php:14
+#, php-format
+#@ national
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать сво первую запись? <a href=\"%s\">Вперед</a>."
+
+#: content-none.php:18
+#@ national
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "К сожалению, ничего не найдено."
+
+#: content-none.php:23
+#@ national
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "К сожалению, ничего не найдено. Воспользуйтесь поиском."
+
+#: content-status.php:9
+#, php-format
+#@ national
+msgid "%s Status"
+msgstr "%s Статус"
+
+#: content-status.php:15
+#, php-format
+#@ national
+msgid "Posted on %1$s at %2$s"
+msgstr "Опубликовано: %1$s в %2$s"
+
+#: content.php:25
+#@ national
+msgid "Posted in "
+msgstr "Опубликовано: "
+
+#: footer.php:18
+#, php-format
+#@ national
+msgid "Designed by %s."
+msgstr ""
+
+#: functions.php:65
+#@ national
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:90
+#@ national
+msgid "Default Header 1"
+msgstr ""
+
+#: functions.php:186
+#@ national
+msgid "First Sidebar"
+msgstr ""
+
+#: functions.php:188
+#@ national
+msgid "This is the first sidebar. It won&rsquo;t appear on the home page unless you set a static front page."
+msgstr ""
+
+#: functions.php:196
+#@ national
+msgid "Jumbo Headline"
+msgstr ""
+
+#: functions.php:198
+#@ national
+msgid "Area on the home page below the large header image. Designed specifically for one text widget. "
+msgstr ""
+
+#: functions.php:206
+#@ national
+msgid "Home Page Top Area"
+msgstr ""
+
+#: functions.php:208
+#@ national
+msgid "Area on the home page above the main content. Designed specifically for four Icon & Text widgets. Add at least one widget to make it appear."
+msgstr ""
+
+#: functions.php:216
+#@ national
+msgid "Footer Notice"
+msgstr ""
+
+#: functions.php:218
+#@ national
+msgid "This is the footer notice area. It works best with a copyright notice or a banner ad."
+msgstr ""
+
+#: functions.php:246
+#@ national
+msgid "Posts navigation"
+msgstr "Навигация по записям"
+
+#: functions.php:248
+#@ national
+msgid "<span class=\"sr-only\">Older posts</span>"
+msgstr "<span class=\"sr-only\">Предыдущие записи</span>"
+
+#: functions.php:252
+#@ national
+msgid "<span class=\"sr-only\">Newer posts</span>"
+msgstr "<span class=\"sr-only\">Новые записи</span>"
+
+#: functions.php:286
+#, php-format
+#@ national
+msgid "Page %s"
+msgstr "Страница %s"
+
+#: functions.php:326
+#, php-format
+#@ national
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+#: functions.php:331
+#@ national
+msgid "Your comment is awaiting moderation."
+msgstr "Комментарий ожидает проверки"
+
+#: functions.php:351
+#@ national
+msgid "Pingback:"
+msgstr "Пингбек:"
+
+#: functions.php:351
+#@ national
+msgid "(edit)"
+msgstr "изменить"
+
+#: functions.php:613
+#, php-format
+#@ national
+msgid "%1$s search results for \"%2$s\""
+msgstr "%1$s результаты поиска: \"%2$s\""
+
+#: header.php:34
+#@ national
+msgid "Main menu"
+msgstr "Главное меню"
+
+#: header.php:35
+#@ national
+msgid "Skip to content"
+msgstr "Перейти к содержанию"
+
+#: image.php:57
+#: single.php:17
+#@ national
+msgid "Post navigation"
+msgstr "Навигация по записям"
+
+#: image.php:58
+#@ national
+msgid "<span class=\"meta-nav\">&larr;</span> Previous Image"
+msgstr "<span class=\"meta-nav\">&larr;</span> Предыдущее изображение"
+
+#: image.php:59
+#@ national
+msgid "Next Image <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Новое изображение <span class=\"meta-nav\">&rarr;</span>"
+
+#: library/customizer.php:56
+#@ national
+msgid "All"
+msgstr "Все"
+
+#: library/customizer.php:123
+#@ national
+msgid "Layout"
+msgstr "Структура"
+
+#: library/customizer.php:135
+#@ national
+msgid "Site Width"
+msgstr "Ширина сайта"
+
+#: library/customizer.php:141
+#@ national
+msgid "1200px"
+msgstr ""
+
+#: library/customizer.php:142
+#@ national
+msgid "992px"
+msgstr ""
+
+#: library/customizer.php:167
+#@ national
+msgid "Main Content Width"
+msgstr "Ширина контента"
+
+#: library/customizer.php:183
+#@ national
+msgid "Left"
+msgstr "Слева"
+
+#: library/customizer.php:184
+#@ national
+msgid "Right"
+msgstr "Справа"
+
+#: library/customizer.php:188
+#@ national
+msgid "Sidebar Layout"
+msgstr "Структура сайдбара"
+
+#: library/preview-pro.php:18
+#@ national
+msgid "Upgrade to full version"
+msgstr ""
+
+#: library/preview-pro.php:18
+#, php-format
+#@ national
+msgid "Upgrade %s"
+msgstr ""
+
+#: library/preview-pro.php:61
+#, php-format
+#@ national
+msgid "Take your site to the next level with the full version of %s. Check out some of the advanced features that'll give you more control over your site's layout and design."
+msgstr ""
+
+#: library/preview-pro.php:64
+#@ national
+msgid "Features"
+msgstr ""
+
+#: library/preview-pro.php:68
+#@ national
+msgid "Content Slider"
+msgstr ""
+
+#: library/preview-pro.php:72
+#@ national
+msgid "Focus on What's Important"
+msgstr ""
+
+#: library/preview-pro.php:73
+#, php-format
+#@ national
+msgid "The most important information on your site should be at the top. That's why %s offers a featured slider directly below your site title. Get your point across as soon as your site loads."
+msgstr ""
+
+#: library/preview-pro.php:74
+#@ national
+msgid "Use the Content Slider admin page to create/edit each custom slide or feature your latest posts by default."
+msgstr ""
+
+#: library/preview-pro.php:79
+#@ national
+msgid "Grid Page Template"
+msgstr ""
+
+#: library/preview-pro.php:83
+#@ national
+msgid "Line Up Your Posts"
+msgstr ""
+
+#: library/preview-pro.php:84
+#@ national
+msgid "Why display your posts in a single column when you can take advantage of the included grid page template?"
+msgstr ""
+
+#: library/preview-pro.php:85
+#@ national
+msgid "Each post will appear as part of the three columns grid."
+msgstr ""
+
+#: library/preview-pro.php:90
+#@ national
+msgid "Social Menu"
+msgstr ""
+
+#: library/preview-pro.php:94
+#@ national
+msgid "Let's Get Social!"
+msgstr ""
+
+#: library/preview-pro.php:95
+#@ national
+msgid "Establish your online presense by letting your visitors join your social network. Help them stay up to date on everything you're doing"
+msgstr ""
+
+#: library/preview-pro.php:96
+#@ national
+msgid "Easily add a social menu by creating links to the most popular social media websites."
+msgstr ""
+
+#: library/preview-pro.php:101
+#@ national
+msgid "Advanced Color Picker"
+msgstr ""
+
+#: library/preview-pro.php:105
+#@ national
+msgid "So Many Colors to Choose From"
+msgstr ""
+
+#: library/preview-pro.php:106
+#, php-format
+#@ national
+msgid "Sometimes the default colors just aren't working for you. In %s you can use the advanced color picker to make sure you get the exact colors you want."
+msgstr ""
+
+#: library/preview-pro.php:107
+#@ national
+msgid "Easily select one of the eight preset colors or dive even deeper into your customization by using a more specific hex code."
+msgstr ""
+
+#: library/preview-pro.php:112
+#@ national
+msgid "Google Fonts Manager"
+msgstr ""
+
+#: library/preview-pro.php:116
+#@ national
+msgid "Use Any Google Font You Want"
+msgstr ""
+
+#: library/preview-pro.php:117
+#@ national
+msgid "Web-safe fonts are a thing of the past, so why not try to spice things up a bit?"
+msgstr ""
+
+#: library/preview-pro.php:118
+#@ national
+msgid "Choose any Google Fonts to improve your site's typeface readability and make things look even more amazing."
+msgstr ""
+
+#: library/preview-pro.php:123
+#@ national
+msgid "Extended Widgetized Footer"
+msgstr ""
+
+#: library/preview-pro.php:127
+#@ national
+msgid "Add More Widgets"
+msgstr ""
+
+#: library/preview-pro.php:128
+#@ national
+msgid "If you need to include more widgets on your site, take advantage of the Extended Footer."
+msgstr ""
+
+#: library/preview-pro.php:129
+#@ national
+msgid "Use the Theme Options customizer to set the number of columns you want to appear. You can also customize your site's copyright notice."
+msgstr ""
+
+#: library/preview-pro.php:134
+#@ national
+msgid "Even More Theme Options"
+msgstr ""
+
+#: library/preview-pro.php:137
+#@ national
+msgid "Full Width Posts/Pages"
+msgstr ""
+
+#: library/preview-pro.php:138
+#@ national
+msgid "Each page/post has an option to remove both sidebars so you can use the full width of your site to display whatever you want."
+msgstr ""
+
+#: library/preview-pro.php:140
+#@ national
+msgid "Multiple Sidebar Layouts"
+msgstr ""
+
+#: library/preview-pro.php:141
+#@ national
+msgid "Sometimes one sidebar just isn't enough, so add a second one and place it where you want."
+msgstr ""
+
+#: library/preview-pro.php:145
+#@ national
+msgid "Bootstrap Shortcodes"
+msgstr ""
+
+#: library/preview-pro.php:146
+#, php-format
+#@ national
+msgid "Shortcodes are awesome and easy to use. That's why %s comes with a bunch, like a slideshow carousel, alert boxes and more."
+msgstr ""
+
+#: library/preview-pro.php:148
+#@ national
+msgid "Import/Export Tool"
+msgstr ""
+
+#: library/preview-pro.php:149
+#@ national
+msgid "Once you've set up your site exactly how you want, you can easily export the Theme Options and Custom CSS for safe keeping."
+msgstr ""
+
+#: library/preview-pro.php:154
+#, php-format
+#@ national
+msgid "Buy %s Now &rarr;"
+msgstr ""
+
+#: library/widgets/widget-image-icon.php:9
+#@ national
+msgid "Custom Text Widget with Image and Icon"
+msgstr ""
+
+#: library/widgets/widget-image-icon.php:11
+#@ national
+msgid "Image, Icon & Text"
+msgstr ""
+
+#: library/widgets/widget-image-icon.php:83
+#@ national
+msgid "Title:"
+msgstr ""
+
+#: library/widgets/widget-image-icon.php:86
+#@ national
+msgid "Icon:"
+msgstr ""
+
+#: library/widgets/widget-image-icon.php:88
+#@ national
+msgid "View Icons"
+msgstr ""
+
+#: library/widgets/widget-image-icon.php:88
+#@ national
+msgid "Remove Icon"
+msgstr ""
+
+#: library/widgets/widget-image-icon.php:92
+#@ national
+msgid "Image:"
+msgstr ""
+
+#: library/widgets/widget-image-icon.php:94
+#@ national
+msgid "Select Image"
+msgstr ""
+
+#: library/widgets/widget-image-icon.php:94
+#@ national
+msgid "Remove Image"
+msgstr ""
+
+#: library/widgets/widget-image-icon.php:97
+#@ national
+msgid "URL:"
+msgstr ""
+
+#: library/widgets/widget-image-icon.php:100
+#@ national
+msgid "Button Text:"
+msgstr ""
+
+#: library/widgets/widget-image-icon.php:105
+#@ national
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: searchform.php:10
+#@ national
+msgctxt "label"
+msgid "Search for:"
+msgstr "Поиск:"
+
+#: searchform.php:11
+#@ national
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Искать &hellip;"
+
+#: sidebar.php:13
+#@ national
+msgid "Default Widget"
+msgstr ""
+
+#: sidebar.php:14
+#, php-format
+#@ national
+msgid "This is just a default widget. It'll disappear as soon as you add your own widgets on the %sWidgets admin page%s."
+msgstr ""
+
+#: sidebar.php:16
+#@ national
+msgid "Below is an example of an unordered list."
+msgstr ""
+
+#: sidebar.php:18
+#@ national
+msgid "List item one"
+msgstr ""
+
+#: sidebar.php:19
+#@ national
+msgid "List item two"
+msgstr ""
+
+#: sidebar.php:20
+#@ national
+msgid "List item three"
+msgstr ""
+
+#: sidebar.php:21
+#@ national
+msgid "List item four"
+msgstr ""
+
+#: single.php:18
+#, php-format
+#@ national
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr ""
+
+#: single.php:19
+#, php-format
+#@ national
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
